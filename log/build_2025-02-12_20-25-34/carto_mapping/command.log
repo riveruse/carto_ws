@@ -1,0 +1,6 @@
+Invoking command in '/home/river/carto_ws/build/carto_mapping': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/river/carto_ws/src/carto_mapping -DCMAKE_INSTALL_PREFIX=/home/river/carto_ws/install/carto_mapping
+Invoked command in '/home/river/carto_ws/build/carto_mapping' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/river/carto_ws/src/carto_mapping -DCMAKE_INSTALL_PREFIX=/home/river/carto_ws/install/carto_mapping
+Invoking command in '/home/river/carto_ws/build/carto_mapping': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/river/carto_ws/build/carto_mapping -- -j32 -l32
+Invoked command in '/home/river/carto_ws/build/carto_mapping' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/river/carto_ws/build/carto_mapping -- -j32 -l32
+Invoking command in '/home/river/carto_ws/build/carto_mapping': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/river/carto_ws/build/carto_mapping
+Invoked command in '/home/river/carto_ws/build/carto_mapping' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/river/carto_ws/build/carto_mapping

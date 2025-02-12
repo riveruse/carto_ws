@@ -1,0 +1,24 @@
+[0.014s] Invoking command in '/home/river/carto_ws/build/carto_mapping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/river/carto_ws/build/carto_mapping -- -j32 -l32
+[0.082s] Invoked command in '/home/river/carto_ws/build/carto_mapping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/river/carto_ws/build/carto_mapping -- -j32 -l32
+[0.084s] Invoking command in '/home/river/carto_ws/build/carto_mapping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/river/carto_ws/build/carto_mapping
+[0.093s] -- Install configuration: ""
+[0.093s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/config
+[0.094s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/config/cartographer_2d.lua
+[0.095s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/launch
+[0.095s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/launch/cartographer.launch.py
+[0.095s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/ament_index/resource_index/package_run_dependencies/carto_mapping
+[0.095s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/ament_index/resource_index/parent_prefix_path/carto_mapping
+[0.095s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/environment/ament_prefix_path.sh
+[0.095s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/environment/ament_prefix_path.dsv
+[0.095s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/environment/path.sh
+[0.095s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/environment/path.dsv
+[0.095s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/local_setup.bash
+[0.095s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/local_setup.sh
+[0.096s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/local_setup.zsh
+[0.096s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/local_setup.dsv
+[0.096s] -- Installing: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/package.dsv
+[0.096s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/ament_index/resource_index/packages/carto_mapping
+[0.096s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/cmake/carto_mappingConfig.cmake
+[0.096s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/cmake/carto_mappingConfig-version.cmake
+[0.096s] -- Up-to-date: /home/river/carto_ws/install/carto_mapping/share/carto_mapping/package.xml
+[0.098s] Invoked command in '/home/river/carto_ws/build/carto_mapping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/river/carto_ws/build/carto_mapping
